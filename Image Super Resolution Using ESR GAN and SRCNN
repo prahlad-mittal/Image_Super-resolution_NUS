@@ -1,0 +1,6 @@
+Image Super Resolution Using ESR GAN and SRCNN
+
+1) ESR GAN - Output mainly deals with Pixel Restoration
+2) SRCNN - Output mainly deals with Image resolution enhancement
+
+According to the image priors, single-image super resolution algorithms can be categorized into four types – prediction models, edge based methods, image statistical methods and patch based (or example-based) methods
